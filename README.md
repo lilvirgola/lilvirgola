@@ -1,6 +1,6 @@
 # Hi there, I'm @lilvirgola! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/lilvirgola)
+[![GitHub followers](https://img.shields.io/github/followers/lilvirgola?label=Follow&style=social)](https://github.com/lilvirgola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alessandro-de-biasi-25b315199)
 
 I'm currently pursuing a **Master's degree in Artificial Intelligence & Cybersecurity** at the [University of Udine](https://www.uniud.it/), as part of a **double degree program** with the [University of Klagenfurt](https://www.aau.at/). passionate about **Distributed systems, IOT, Cybersecurity and CTFs**. I love working with **go and python**.
