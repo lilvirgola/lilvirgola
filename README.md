@@ -38,12 +38,17 @@ Here are some of my notable projects:
 ## 📫 How to reach me
 
 - Email: [alessandro.debiasi@protonmail.com](mailto:alessandro.debiasi@protonmail.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/alessandro-de-biasi-25b315199)
+- LinkedIn: [Alessandro De Biasi](https://www.linkedin.com/in/alessandro-de-biasi-25b315199)
+
+## 🏆 Competition Achievements
+- 🥉 **3rd place** in [CyberChallenge.IT Local Competiton] (2024)
+- 🏅 **Finalist** in CyberChallenge.IT 2024 - National cybersecurity competition
+- 🔐 Currently member of [@MadrHacks](https://github.com/MadrHacks) CTF team
 
 ## ⚡ Fun fact
 
-[Insert a fun fact about yourself here!]
+I’m a Raspberry Pi enthusiast who finds excuses to put them everywhere—from home labs to random DIY projects.
 
 ## 🎧 Currently listening to
 
-[![Spotify](https://spotify-readme-theta.vercel.app/api/spotify)](https://open.spotify.com/user/mcaiegufkib50z0wk3lnqh5qv)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mcaiegufkib50z0wk3lnqh5qv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mcaiegufkib50z0wk3lnqh5qv&redirect=true)
