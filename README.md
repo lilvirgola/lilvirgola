@@ -28,6 +28,7 @@ Here are some of my notable projects:
 - Kubernetes, Ansible and Terraform
 - NodeJS and some JS Framework
 - Erlang and Elixir
+- Cuda
 
 <!-- ## 💬 Ask me about
 
